@@ -1,4 +1,0 @@
-name : hellowork 
-on:
-  push:
-    branches: [main]
